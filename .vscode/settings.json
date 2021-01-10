@@ -1,0 +1,7 @@
+{
+    "commentTranslate.targetLanguage": "zh-CN",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "editor.formatOnSave": true
+}
