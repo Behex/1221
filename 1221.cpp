@@ -8,6 +8,7 @@ int main()
     cout << "hello git" << endl;
     cout << "git" << endl;
     cout << "hahha" << endl;
+    cout << "hello world"<<endl;
     system("pause");
     return 0;
 }
