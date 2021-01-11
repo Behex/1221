@@ -9,6 +9,7 @@ int main()
     cout << "git" << endl;
     cout << "hahha" << endl;
     cout << "hello world"<<endl;
+    cout << "hello2222"<<endl;
     system("pause");
     return 0;
 }
